@@ -21,4 +21,16 @@
         android:text="Switch"
         tools:layout_editor_absoluteX="137dp"
         tools:layout_editor_absoluteY="591dp" />
+
+    <ScrollView
+        android:layout_width="226dp"
+        android:layout_height="90dp"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="102dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
