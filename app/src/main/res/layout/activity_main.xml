@@ -13,4 +13,11 @@
         android:text="Button"
         tools:layout_editor_absoluteX="189dp"
         tools:layout_editor_absoluteY="293dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="409dp"
+        android:layout_height="291dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
